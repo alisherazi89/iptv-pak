@@ -1,55 +1,851 @@
 #EXTM3U
-#EXTINF:-1,IN: TEN 1 HD
-http://163.172.62.63:8000/live/Mp1/166484/2378.ts
-#EXTINF:-1,IN: TEN Golf HD
-http://163.172.62.63:8000/live/Mp1/166484/2379.ts
-#EXTINF:-1,IN: TEN 2
-http://163.172.62.63:8000/live/Mp1/166484/2148.ts
-#EXTINF:-1,IN: 9XM
-http://163.172.62.63:8000/live/Mp1/166484/1375.ts
-#EXTINF:-1,IN: Sony Six
-http://163.172.62.63:8000/live/Mp1/166484/2638.ts
-#EXTINF:-1,IN: Ten 3
-http://163.172.62.63:8000/live/Mp1/166484/2146.ts
-#EXTINF:-1,IN: Colors Tv HD
-http://163.172.62.63:8000/live/Mp1/166484/1827.ts
-#EXTINF:-1,IN: 9X Jalwa
-http://163.172.62.63:8000/live/Mp1/166484/1722.ts
-#EXTINF:-1,IN: Zee Studio HD
-http://163.172.62.63:8000/live/Mp1/166484/2628.ts
-#EXTINF:-1,IN: ZEE CINEMA HD
-http://163.172.62.63:8000/live/Mp1/166484/1721.ts
-#EXTINF:-1,IN: & Picture HD
-http://163.172.62.63:8000/live/Mp1/166484/1368.ts
-#EXTINF:-1,IN: &TV HD
-http://163.172.62.63:8000/live/Mp1/166484/1369.ts
-#EXTINF:-1,IN: HBO HD
-http://163.172.62.63:8000/live/Mp1/166484/2621.ts
-#EXTINF:-1,IN: ZEE BOLLYWOOD
-http://163.172.62.63:8000/live/Mp1/166484/2627.ts
-#EXTINF:-1,IN: B4U Music
-http://163.172.62.63:8000/live/Mp1/166484/2630.ts
-#EXTINF:-1,IN: B4U Movies
-http://163.172.62.63:8000/live/Mp1/166484/2631.ts
-#EXTINF:-1,IN: Zee Cafe HD
-http://163.172.62.63:8000/live/Mp1/166484/2632.ts
-#EXTINF:-1,IN: Zoom
-http://163.172.62.63:8000/live/Mp1/166484/2130.ts
-#EXTINF:-1,IN: Rishtey Europe
-http://163.172.62.63:8000/live/Mp1/166484/2152.ts
-#EXTINF:-1,IN: Nickelodeon
-http://163.172.62.63:8000/live/Mp1/166484/2159.ts
-#EXTINF:-1,IN: SONY Max HD
-http://163.172.62.63:8000/live/Mp1/166484/1901.ts
-#EXTINF:-1,IN: Zee Action India
-http://163.172.62.63:8000/live/Mp1/166484/1899.ts
-#EXTINF:-1,IN: MTV India
-http://163.172.62.63:8000/live/Mp1/166484/1905.ts
-#EXTINF:-1,IN: Discovery Hindi
-http://163.172.62.63:8000/live/Mp1/166484/1907.ts
-#EXTINF:-1,IN: Zee Classic India
-http://163.172.62.63:8000/live/Mp1/166484/1895.ts
-#EXTINF:-1,IN:Zee Tv HD
-http://163.172.62.63:8000/live/Mp1/166484/1363.ts
-#EXTINF:-1,IN: Zee Tv HD
-http://163.172.62.63:8000/live/Mp1/166484/1364.ts
+#EXTINF:-1,NL_24 KITCHEN HD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10386.ts
+#EXTINF:-1,NL_Baby TV
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10385.ts
+#EXTINF:-1,NL_Boomerang HD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10384.ts
+#EXTINF:-1,NL_Cartoon Network HD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10383.ts
+#EXTINF:-1,NL_DISCOVERY HD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10382.ts
+#EXTINF:-1,NL_DISNEY CHANNEL
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10381.ts
+#EXTINF:-1,NL_Eurosport 2 HD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10378.ts
+#EXTINF:-1,NL_Film1 Spotlight
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10373.ts
+#EXTINF:-1,NL_Fox Sport 1
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10369.ts
+#EXTINF:-1,NL_Fox Sport 3
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10367.ts
+#EXTINF:-1,NL_Fox Sport 4
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10366.ts
+#EXTINF:-1,NL_Fox Sport 6
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10364.ts
+#EXTINF:-1,NL_HBO 1
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10363.ts
+#EXTINF:-1,NL_Klipkar TV
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10359.ts
+#EXTINF:-1,NL_National Geographic
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10358.ts
+#EXTINF:-1,NL_NPO 1
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10356.ts
+#EXTINF:-1,NL_NPO 2
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10355.ts
+#EXTINF:-1,NL_NPO 3
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10354.ts
+#EXTINF:-1,NL_NPO Zapp Xtra
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10353.ts
+#EXTINF:-1,NL_RTL-4 HD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10352.ts
+#EXTINF:-1,NL_RTL-7 HD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10350.ts
+#EXTINF:-1,NL_RTL-8 HD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10349.ts
+#EXTINF:-1,NL_RTL-HD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10348.ts
+#EXTINF:-1,NL_RTL-LOUNGE
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10347.ts
+#EXTINF:-1,NL_RTL-Z
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10346.ts
+#EXTINF:-1,NL_TLC
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10342.ts
+#EXTINF:-1,NL_Ziggo Sport
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10341.ts
+#EXTINF:-1,NL_Ziggo Sport Extra 1
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10340.ts
+#EXTINF:-1,NL_Ziggo Sport1 Golf
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10337.ts
+#EXTINF:-1,NL_Ziggo Sport1 Voetbal
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10335.ts
+#EXTINF:-1,RO_Acasa-TV
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10423.ts
+#EXTINF:-1,RO_Antena-Stars
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10422.ts
+#EXTINF:-1,RO_Antena1
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10421.ts
+#EXTINF:-1,RO_B1-Tv
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10420.ts
+#EXTINF:-1,RO_Cinemax
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10419.ts
+#EXTINF:-1,RO_Digi-Animal-World
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10418.ts
+#EXTINF:-1,RO_Digi-Film
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10417.ts
+#EXTINF:-1,RO_Digi-Life
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10416.ts
+#EXTINF:-1,RO_Digi-Sport1
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10415.ts
+#EXTINF:-1,RO_Digi-Sport2
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10414.ts
+#EXTINF:-1,RO_Digi-Sport3
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10413.ts
+#EXTINF:-1,RO_Digi-Sport4
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10412.ts
+#EXTINF:-1,RO_Digi-World
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10411.ts
+#EXTINF:-1,RO_Disney-Channel
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10410.ts
+#EXTINF:-1,RO_Disney-Junior
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10409.ts
+#EXTINF:-1,RO_EUROSPORT2
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10407.ts
+#EXTINF:-1,RO_HBO
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10406.ts
+#EXTINF:-1,RO_HBO2
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10405.ts
+#EXTINF:-1,RO_History-Channel
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10403.ts
+#EXTINF:-1,RO_Kanal-D
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10402.ts
+#EXTINF:-1,RO_Megamax
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10401.ts
+#EXTINF:-1,RO_Minimax
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10400.ts
+#EXTINF:-1,RO_NatGeo
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10399.ts
+#EXTINF:-1,RO_NatGeo-Wild
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10398.ts
+#EXTINF:-1,RO_Prima-Tv
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10397.ts
+#EXTINF:-1,RO_ProCinema
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10396.ts
+#EXTINF:-1,RO_ProTV
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10395.ts
+#EXTINF:-1,RO_Realitatea-Tv
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10394.ts
+#EXTINF:-1,RO_Romania-Tv
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10393.ts
+#EXTINF:-1,RO_TVR1
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10391.ts
+#EXTINF:-1,RO_TVR2
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10390.ts
+#EXTINF:-1,RO_Viasat-History
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10389.ts
+#EXTINF:-1,RO_Viasat-Nature
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10388.ts
+#EXTINF:-1,00000210
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10727.mkv
+#EXTINF:-1,0000022
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10728.mkv
+#EXTINF:-1,0000023
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10729.mkv
+#EXTINF:-1,0000024
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10730.mkv
+#EXTINF:-1,0000055
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10731.mkv
+#EXTINF:-1,0000066
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10732.mkv
+#EXTINF:-1,0000068
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10733.mkv
+#EXTINF:-1,0000069
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10734.mkv
+#EXTINF:-1,0000070
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10735.mkv
+#EXTINF:-1,0000071
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10736.mkv
+#EXTINF:-1,0000077
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10737.mkv
+#EXTINF:-1,0000078
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10738.mkv
+#EXTINF:-1,0000079
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10739.mkv
+#EXTINF:-1,0000080
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10740.mkv
+#EXTINF:-1,0000081
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10741.mkv
+#EXTINF:-1,0000082
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10742.mkv
+#EXTINF:-1,0000083
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10743.mkv
+#EXTINF:-1,0000084
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10744.mkv
+#EXTINF:-1,0000085
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10745.mkv
+#EXTINF:-1,0000086
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10746.mkv
+#EXTINF:-1,0000087
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10747.mkv
+#EXTINF:-1,0000088
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10748.mkv
+#EXTINF:-1,0000089
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10749.mkv
+#EXTINF:-1,0000090
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10750.mkv
+#EXTINF:-1,0000091
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10751.mkv
+#EXTINF:-1,00000915
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10752.mkv
+#EXTINF:-1,00000916
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10753.mkv
+#EXTINF:-1,00002013
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10754.mkv
+#EXTINF:-1,00002014
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10755.mkv
+#EXTINF:-1,00002015
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10756.mkv
+#EXTINF:-1,00002016
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10757.mkv
+#EXTINF:-1,0000333
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10758.mkv
+#EXTINF:-1,0000335
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10759.mkv
+#EXTINF:-1,0000336
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10760.mkv
+#EXTINF:-1,0000337
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10761.mkv
+#EXTINF:-1,0000338
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10762.mkv
+#EXTINF:-1,0000340
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10763.mkv
+#EXTINF:-1,0000341
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10764.mkv
+#EXTINF:-1,0000351
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10765.mkv
+#EXTINF:-1,0000641
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10766.mkv
+#EXTINF:-1,0000642
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10767.mkv
+#EXTINF:-1,0000643
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10768.mkv
+#EXTINF:-1,0000644
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10769.mkv
+#EXTINF:-1,0000645
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10770.mkv
+#EXTINF:-1,0000646
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10771.mkv
+#EXTINF:-1,0000647
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10772.mkv
+#EXTINF:-1,0000649
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10773.mkv
+#EXTINF:-1,0000650
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10774.mkv
+#EXTINF:-1,0000651
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10775.mkv
+#EXTINF:-1,0000653
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10776.mkv
+#EXTINF:-1,0000654
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10777.mkv
+#EXTINF:-1,0000655
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10778.mkv
+#EXTINF:-1,0000659
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10779.mkv
+#EXTINF:-1,0000660
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10780.mkv
+#EXTINF:-1,0000661
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10781.mkv
+#EXTINF:-1,0000663
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10782.mkv
+#EXTINF:-1,0000665
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10783.mkv
+#EXTINF:-1,0000666
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10784.mkv
+#EXTINF:-1,0000667
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10785.mkv
+#EXTINF:-1,0000668
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10786.mkv
+#EXTINF:-1,0000770
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10787.mkv
+#EXTINF:-1,0000771
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10788.mkv
+#EXTINF:-1,0000772
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10789.mkv
+#EXTINF:-1,0000773
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10790.mkv
+#EXTINF:-1,0000774
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10791.mkv
+#EXTINF:-1,0000775
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10792.mkv
+#EXTINF:-1,0000776
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10793.mkv
+#EXTINF:-1,0000777
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10794.mkv
+#EXTINF:-1,0000778
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10795.mkv
+#EXTINF:-1,0000779
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10796.mkv
+#EXTINF:-1,0000780
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10797.mkv
+#EXTINF:-1,0000781
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10798.mkv
+#EXTINF:-1,0000782
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10799.mkv
+#EXTINF:-1,0000783
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10800.mkv
+#EXTINF:-1,0000784
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10801.mkv
+#EXTINF:-1,0000794
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10802.mkv
+#EXTINF:-1,0000797
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10803.mkv
+#EXTINF:-1,0000890
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10804.mkv
+#EXTINF:-1,0000910
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10805.mkv
+#EXTINF:-1,0000911
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10806.mkv
+#EXTINF:-1,0000913
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10807.mkv
+#EXTINF:-1,0000915
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10808.mkv
+#EXTINF:-1,0000916
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10809.mkv
+#EXTINF:-1,0000917
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10810.mkv
+#EXTINF:-1,0000921
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10811.mkv
+#EXTINF:-1,0000922
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10812.mkv
+#EXTINF:-1,0000923
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10813.mkv
+#EXTINF:-1,0000924
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10814.mkv
+#EXTINF:-1,0000925
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10815.mkv
+#EXTINF:-1,0000927
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10816.mkv
+#EXTINF:-1,0000929
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10817.mkv
+#EXTINF:-1,0000930
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10818.mkv
+#EXTINF:-1,0000931
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10819.mkv
+#EXTINF:-1,0000933
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10820.mkv
+#EXTINF:-1,0000934
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10821.mkv
+#EXTINF:-1,0000935
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10822.mkv
+#EXTINF:-1,0000936
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10823.mkv
+#EXTINF:-1,0000937
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10824.mkv
+#EXTINF:-1,0000938
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10825.mkv
+#EXTINF:-1,0000939
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10826.mkv
+#EXTINF:-1,0000941
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10827.mkv
+#EXTINF:-1,0000943
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10828.mkv
+#EXTINF:-1,0000944
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10829.mkv
+#EXTINF:-1,0000945
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10830.mkv
+#EXTINF:-1,11111
+http://url550.com:8000/movie/1234AA**@@Uz!!/bassamroundok/10831.mkv
+#EXTINF:-1,TR_A2-Tv
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10239.ts
+#EXTINF:-1,TR_A9-TV
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10238.ts
+#EXTINF:-1,TR_ATV HD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10170.ts
+#EXTINF:-1,TR_ATV_FHD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10236.ts
+#EXTINF:-1,TR_ATV-AVRUPA
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10235.ts
+#EXTINF:-1,TR_BBC-EARTH
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10234.ts
+#EXTINF:-1,TR_beIN_BOX-OFFICE 1
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10233.ts
+#EXTINF:-1,TR_beIN_BOX-OFFICE 2
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10232.ts
+#EXTINF:-1,TR_beIN_BOX-OFFICE 3
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10231.ts
+#EXTINF:-1,TR_beIN_IZ TV
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10230.ts
+#EXTINF:-1,TR_beIN_MOVIES-ACTION
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10229.ts
+#EXTINF:-1,TR_beIN_MOVIES-TURK
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10225.ts
+#EXTINF:-1,TR_beINSPORTS-1 HD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10206.ts
+#EXTINF:-1,TR_beINSPORTS-2 HD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10205.ts
+#EXTINF:-1,TR_beINSPORTS-3 HD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10204.ts
+#EXTINF:-1,TR_BESIKTAS-TV
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10224.ts
+#EXTINF:-1,TR_BEYAZ-TV
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10169.ts
+#EXTINF:-1,TR_BURSA-SPOR-TV
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10223.ts
+#EXTINF:-1,TR_CAY TV
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10222.ts
+#EXTINF:-1,TR_CEM TV
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10221.ts
+#EXTINF:-1,TR_CINESTAR AILE
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10220.ts
+#EXTINF:-1,TR_CINESTAR GERILIM
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10219.ts
+#EXTINF:-1,TR_CINESTAR KOMEDI
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10218.ts
+#EXTINF:-1,TR_CINESTAR KORKU
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10217.ts
+#EXTINF:-1,TR_CINESTAR TÜRK
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10216.ts
+#EXTINF:-1,TR_CINESTAR VIZYON 1
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10215.ts
+#EXTINF:-1,TR_CINESTAR VIZYON 2
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10214.ts
+#EXTINF:-1,TR_CINESTAR VIZYON 3
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10213.ts
+#EXTINF:-1,TR_CNN
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10168.ts
+#EXTINF:-1,TR_DISCOVERY-IDX
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10211.ts
+#EXTINF:-1,TR_DISCOVERY-SHOWCASE
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10210.ts
+#EXTINF:-1,TR_DOST TV
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10209.ts
+#EXTINF:-1,TR_EKIN TV
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10208.ts
+#EXTINF:-1,TR_EURO-D
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10207.ts
+#EXTINF:-1,TR_EUROSPORT-1
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10203.ts
+#EXTINF:-1,TR_EUROSPORT-2
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10202.ts
+#EXTINF:-1,TR_EUROSTAR
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10201.ts
+#EXTINF:-1,TR_FENERBAHCE-TV
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10200.ts
+#EXTINF:-1,TR_FLASH-TV
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10199.ts
+#EXTINF:-1,TR_FOX-TV HD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10198.ts
+#EXTINF:-1,TR_GALATASARAY-TV
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10197.ts
+#EXTINF:-1,TR_KANAL-7_AVRUPA
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10196.ts
+#EXTINF:-1,TR_KANAL-D HD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10195.ts
+#EXTINF:-1,TR_LALEGÜL TV
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10194.ts
+#EXTINF:-1,TR_MAKINE TV
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10193.ts
+#EXTINF:-1,TR_MAVI KARADENIZ TV
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10192.ts
+#EXTINF:-1,TR_MEKKE TV
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10191.ts
+#EXTINF:-1,TR_NATIONAL GEO PEOPLE
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10190.ts
+#EXTINF:-1,TR_NTV-SPOR HD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10189.ts
+#EXTINF:-1,TR_POWERTV HD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10188.ts
+#EXTINF:-1,TR_SHOW-MAX
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10187.ts
+#EXTINF:-1,TR_SHOW-tv HD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10186.ts
+#EXTINF:-1,TR_SMART-SPOR-1
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10185.ts
+#EXTINF:-1,TR_SMART-SPOR-2
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10184.ts
+#EXTINF:-1,TR_SONY CHANNEL TÜRKIYE
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10183.ts
+#EXTINF:-1,TR_SPORTS-TV
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10182.ts
+#EXTINF:-1,TR_TEVE-2
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10181.ts
+#EXTINF:-1,TR_TLC
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10180.ts
+#EXTINF:-1,TR_TRT AVAZ
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10179.ts
+#EXTINF:-1,TR_TRT DIYANET
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10178.ts
+#EXTINF:-1,TR_TRT-1 HD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10177.ts
+#EXTINF:-1,TR_TRT-SPOR HD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10171.ts
+#EXTINF:-1,TR_TV-8 HD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10176.ts
+#EXTINF:-1,TR_TV-8.5
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10175.ts
+#EXTINF:-1,TR_TV-8.INT
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10174.ts
+#EXTINF:-1,TR_VUSLAT TV
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10173.ts
+#EXTINF:-1,TR_YABAN TV
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10172.ts
+#EXTINF:-1,S $ 13EME_RUE
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10606.ts
+#EXTINF:-1,S $ 6TER
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10628.ts
+#EXTINF:-1,S $ ACTION
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10605.ts
+#EXTINF:-1,S $ ARTE
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10621.ts
+#EXTINF:-1,S $ BeIN_SPORTS_1 FR SD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10585.ts
+#EXTINF:-1,S $ BeIN_SPORTS_2 FR SD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10584.ts
+#EXTINF:-1,S $ BeIN_SPORTS_3 FR SD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10583.ts
+#EXTINF:-1,S $ BeINSPORT_MAX4
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10582.ts
+#EXTINF:-1,S $ BeINSPORT_MAX6
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10580.ts
+#EXTINF:-1,S $ BeINSPORT_MAX7
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10579.ts
+#EXTINF:-1,S $ BFM_SPORT
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10592.ts
+#EXTINF:-1,S $ C8
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10630.ts
+#EXTINF:-1,S $ CANAL
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10616.ts
+#EXTINF:-1,S $ CANAL _CINEMA
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10615.ts
+#EXTINF:-1,S $ CANAL _DECALE
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10614.ts
+#EXTINF:-1,S $ CANAL _FAMILY
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10613.ts
+#EXTINF:-1,S $ CANAL _SERIES
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10612.ts
+#EXTINF:-1,S $ CANAL _SPORT
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10611.ts
+#EXTINF:-1,S $ CHASSE.&.PECHE
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10601.ts
+#EXTINF:-1,S $ CINE _EMOTION SD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10610.ts
+#EXTINF:-1,S $ CINE _FAMIZ SD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10609.ts
+#EXTINF:-1,S $ CINE _FRISSON SD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10608.ts
+#EXTINF:-1,S $ CINE _PREMIER SD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10607.ts
+#EXTINF:-1,S $ CSTAR
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10604.ts
+#EXTINF:-1,S $ DISNEY_CHANNEL
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10575.ts
+#EXTINF:-1,S $ EQUIDIA_LIVE
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10590.ts
+#EXTINF:-1,S $ FRANCE.2
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10636.ts
+#EXTINF:-1,S $ FRANCE.3
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10635.ts
+#EXTINF:-1,S $ FRANCE.4
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10634.ts
+#EXTINF:-1,S $ FRANCE.5
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10633.ts
+#EXTINF:-1,S $ FRANCE.O
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10632.ts
+#EXTINF:-1,S $ GAME_ONE
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10586.ts
+#EXTINF:-1,S $ GULLI
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10574.ts
+#EXTINF:-1,S $ HISTOIRE
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10597.ts
+#EXTINF:-1,S $ L.EQUIPE21
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10591.ts
+#EXTINF:-1,S $ LCI
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10626.ts
+#EXTINF:-1,S $ M6
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10637.ts
+#EXTINF:-1,S $ M6_MUSIC
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10572.ts
+#EXTINF:-1,S $ MTV_DANCE
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10571.ts
+#EXTINF:-1,S $ NRJ.12
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10625.ts
+#EXTINF:-1,S $ Numero23
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10624.ts
+#EXTINF:-1,S $ OCS_CHOC
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10620.ts
+#EXTINF:-1,S $ OCS_CITY
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10619.ts
+#EXTINF:-1,S $ OCS_GEANTS
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10618.ts
+#EXTINF:-1,S $ OCS_MAX
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10617.ts
+#EXTINF:-1,S $ PARIS_PREMIERE
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10623.ts
+#EXTINF:-1,S $ RMC_DECOUVERTE
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10600.ts
+#EXTINF:-1,S $ RTL9
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10596.ts
+#EXTINF:-1,S $ SERIE_CLUB
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10595.ts
+#EXTINF:-1,S $ SFR_SPORT_1 SD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10589.ts
+#EXTINF:-1,S $ SFR_SPORT_2 SD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10588.ts
+#EXTINF:-1,S $ SFR_SPORT_3 SD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10587.ts
+#EXTINF:-1,S $ SYFY
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10603.ts
+#EXTINF:-1,S $ TEVA
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10602.ts
+#EXTINF:-1,S $ TF1
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10638.ts
+#EXTINF:-1,S $ TF1-Series-Films
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10627.ts
+#EXTINF:-1,S $ TFX
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10629.ts
+#EXTINF:-1,S $ TMC
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10622.ts
+#EXTINF:-1,S $ TOUTE_L.HISTOIRE
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10599.ts
+#EXTINF:-1,S $ TRACE_URBAN
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10573.ts
+#EXTINF:-1,S $ TV_BREIZH
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10594.ts
+#EXTINF:-1,S $ USHUAIA.TV
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10598.ts
+#EXTINF:-1,S $ W9
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10631.ts
+#EXTINF:-1,H $ 13EME_RUE
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10532.ts
+#EXTINF:-1,H $ 6TER
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10556.ts
+#EXTINF:-1,H $ AB_MOTEUR
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10513.ts
+#EXTINF:-1,H $ AB1
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10539.ts
+#EXTINF:-1,H $ AB3
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10538.ts
+#EXTINF:-1,H $ ACTION
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10545.ts
+#EXTINF:-1,H $ ANIMAUX
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10528.ts
+#EXTINF:-1,H $ ARTE
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10552.ts
+#EXTINF:-1,H $ BBlack_AFRICA
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10457.ts
+#EXTINF:-1,H $ beIN_SPORTS_1 FR
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10512.ts
+#EXTINF:-1,H $ beIN_SPORTS_2 FR
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10511.ts
+#EXTINF:-1,H $ beIN_SPORTS_3 FR
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10510.ts
+#EXTINF:-1,H $ BET
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10451.ts
+#EXTINF:-1,H $ BFM_BUSINESS
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10550.ts
+#EXTINF:-1,H $ BFM_SPORT
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10503.ts
+#EXTINF:-1,H $ BFM_TV
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10549.ts
+#EXTINF:-1,H $ BOING FR
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10475.ts
+#EXTINF:-1,H $ BOOMERANG FR
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10474.ts
+#EXTINF:-1,H $ BRAVA
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10442.ts
+#EXTINF:-1,H $ C8
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10559.ts
+#EXTINF:-1,H $ CANAL _CINEMA_HD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10494.ts
+#EXTINF:-1,H $ CANAL _DECALE_HD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10493.ts
+#EXTINF:-1,H $ CANAL _FAMILY_HD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10492.ts
+#EXTINF:-1,H $ CANAL _HD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10495.ts
+#EXTINF:-1,H $ CANAL _SERIES_HD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10491.ts
+#EXTINF:-1,H $ CANAL _SPORT_HD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10490.ts
+#EXTINF:-1,H $ CANAL_J
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10473.ts
+#EXTINF:-1,H $ CANAL_NEWS
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10548.ts
+#EXTINF:-1,H $ CARTOON_NETWORK
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10472.ts
+#EXTINF:-1,H $ CHASSE.&.PECHE
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10526.ts
+#EXTINF:-1,H $ CHERIE_25
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10537.ts
+#EXTINF:-1,H $ CINE _CLASSIC
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10488.ts
+#EXTINF:-1,H $ CINE _CLUB
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10487.ts
+#EXTINF:-1,H $ CINE _EMOTION
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10486.ts
+#EXTINF:-1,H $ CINE _FAMIZ
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10485.ts
+#EXTINF:-1,H $ CINE _FRISSON
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10484.ts
+#EXTINF:-1,H $ CINE _POLAR
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10481.ts
+#EXTINF:-1,H $ CINE _PREMIER
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10483.ts
+#EXTINF:-1,H $ CINE_FX
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10482.ts
+#EXTINF:-1,H $ COMEDIE
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10480.ts
+#EXTINF:-1,H $ CRIME_DISTRICT
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10525.ts
+#EXTINF:-1,H $ CSTAR
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10555.ts
+#EXTINF:-1,H $ DISCOVERY FR
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10523.ts
+#EXTINF:-1,H $ DISCOVERY_SC FR
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10522.ts
+#EXTINF:-1,H $ DISNEY_CHANNEL FR
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10471.ts
+#EXTINF:-1,H $ DISNEY_CINEMA
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10470.ts
+#EXTINF:-1,H $ DISNEY_JUNIOR FR
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10469.ts
+#EXTINF:-1,H $ DISNEY_XD FR
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10468.ts
+#EXTINF:-1,H $ E!ENTERTAINMENT FR
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10456.ts
+#EXTINF:-1,H $ ELLE_GIRL
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10455.ts
+#EXTINF:-1,H $ EQUIDIA_LIVE
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10509.ts
+#EXTINF:-1,H $ EURONEWS
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10553.ts
+#EXTINF:-1,H $ EUROSPORT_1 FR
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10508.ts
+#EXTINF:-1,H $ EUROSPORT_2 FR
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10507.ts
+#EXTINF:-1,H $ EXTREME_SPORTS
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10506.ts
+#EXTINF:-1,H $ FRANCE_2
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10566.ts
+#EXTINF:-1,H $ FRANCE_24 FR
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10560.ts
+#EXTINF:-1,H $ FRANCE_3
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10565.ts
+#EXTINF:-1,H $ FRANCE_4
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10564.ts
+#EXTINF:-1,H $ FRANCE_5
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10563.ts
+#EXTINF:-1,H $ FRANCE_INFO
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10561.ts
+#EXTINF:-1,H $ FRANCE_O
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10562.ts
+#EXTINF:-1,H $ GAME_ONE
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10467.ts
+#EXTINF:-1,H $ GOLF
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10505.ts
+#EXTINF:-1,H $ GOLF_CHANNEL
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10504.ts
+#EXTINF:-1,H $ GULLI
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10466.ts
+#EXTINF:-1,H $ HISTOIRE
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10524.ts
+#EXTINF:-1,H $ INFOSPORT
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10502.ts
+#EXTINF:-1,H $ L'EQUIPE_21
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10500.ts
+#EXTINF:-1,H $ LCP
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10547.ts
+#EXTINF:-1,H $ M6
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10568.ts
+#EXTINF:-1,H $ M6_MUSIC
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10452.ts
+#EXTINF:-1,H $ MANGAS
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10465.ts
+#EXTINF:-1,H $ MCM
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10450.ts
+#EXTINF:-1,H $ MCM_TOP
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10449.ts
+#EXTINF:-1,H $ MEZZO FR
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10448.ts
+#EXTINF:-1,H $ MEZZO_LIVE
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10447.ts
+#EXTINF:-1,H $ MTV_DANCE
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10454.ts
+#EXTINF:-1,H $ MTV_FRANCE
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10446.ts
+#EXTINF:-1,H $ MTV_HITS
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10453.ts
+#EXTINF:-1,H $ NATGEO FR
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10521.ts
+#EXTINF:-1,H $ NATGEO_WILD FR
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10520.ts
+#EXTINF:-1,H $ NICK_Jr FR
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10464.ts
+#EXTINF:-1,H $ NICKELODEON FR
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10463.ts
+#EXTINF:-1,H $ NRJ12
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10445.ts
+#EXTINF:-1,H $ NUMERO_23
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10554.ts
+#EXTINF:-1,H $ OCS_CHOC
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10479.ts
+#EXTINF:-1,H $ OCS_CITY
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10478.ts
+#EXTINF:-1,H $ OCS_GEANTS
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10477.ts
+#EXTINF:-1,H $ OCS_MAX
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10476.ts
+#EXTINF:-1,H $ PARAMOUNT_CHANNEL FR
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10519.ts
+#EXTINF:-1,H $ PARIS_PREMIERE
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10546.ts
+#EXTINF:-1,H $ PIWI
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10462.ts
+#EXTINF:-1,H $ PLANETE
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10518.ts
+#EXTINF:-1,H $ PLANETE _CI
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10516.ts
+#EXTINF:-1,H $ PLANETE_A&E
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10517.ts
+#EXTINF:-1,H $ RFM_TV
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10536.ts
+#EXTINF:-1,H $ RMC_DECOUVERTE
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10515.ts
+#EXTINF:-1,H $ RTL9
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10543.ts
+#EXTINF:-1,H $ RTS_DEUX
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10542.ts
+#EXTINF:-1,H $ RTS_UN
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10541.ts
+#EXTINF:-1,H $ SCIENCES&VIE
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10514.ts
+#EXTINF:-1,H $ SEASONS
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10527.ts
+#EXTINF:-1,H $ SERIE_CLUB
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10489.ts
+#EXTINF:-1,H $ SFR_SPORT_1
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10499.ts
+#EXTINF:-1,H $ SFR_SPORT_2
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10498.ts
+#EXTINF:-1,H $ SFR_SPORT_3
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10497.ts
+#EXTINF:-1,H $ SFR_SPORT_5
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10496.ts
+#EXTINF:-1,H $ SYFY FR
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10540.ts
+#EXTINF:-1,H $ TCM_CINEMA
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10535.ts
+#EXTINF:-1,H $ TELETOON
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10461.ts
+#EXTINF:-1,H $ TEVA
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10544.ts
+#EXTINF:-1,H $ TF1
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10569.ts
+#EXTINF:-1,H $ TF1-Series-Films
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10558.ts
+#EXTINF:-1,H $ TFX
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10557.ts
+#EXTINF:-1,H $ TIJI
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10460.ts
+#EXTINF:-1,H $ TMC
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10534.ts
+#EXTINF:-1,H $ TOONAMI
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10459.ts
+#EXTINF:-1,H $ TOUTE_L.HISTOIRE
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10531.ts
+#EXTINF:-1,H $ TRACE_URBAN
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10444.ts
+#EXTINF:-1,H $ TREK
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10458.ts
+#EXTINF:-1,H $ TV_BREIZH
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10533.ts
+#EXTINF:-1,H $ TV5_MONDE
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10551.ts
+#EXTINF:-1,H $ USHUAIA_TV
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10530.ts
+#EXTINF:-1,H $ VH1_CLASSIC
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10443.ts
+#EXTINF:-1,H $ VOYAGE
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10529.ts
+#EXTINF:-1,H $ W9
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10567.ts
